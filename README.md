@@ -1,3 +1,2 @@
-url : https://oncee-updown.netlify.app
-
-# js-updown
+# js-updown Games
+* url : https://oncee-updown.netlify.app
